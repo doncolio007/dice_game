@@ -1,4 +1,4 @@
-#!/usr/bin/env python3 -i
+#!/usr/bin/env python -i
 import random
 
 def playGame(playerOne, playerTwo):
